@@ -6,7 +6,9 @@
 
 - 자신보다는 다른 이들에게 도움이 되었으면 하는 바람으로 정리하는 것에 서슴지 않습니다.
 
-☕ 네스프레소 커피를 누구보다 사랑합니다.
+- 항상 낮은 자세로 배움에 임합니다.
+
+- 네스프레소 커피를 누구보다 사랑합니다. ☕
 
 ## Experience
 
@@ -30,7 +32,6 @@
 <br>
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### DataBase
 
