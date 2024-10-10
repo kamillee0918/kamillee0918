@@ -1,6 +1,6 @@
 ## Hello, there! 🖐🏻
 
-Spring, FastAPI, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. 🙋🏻‍♂️
+Spring, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. 🙋🏻‍♂️
 
 끊임없는 호기심으로 새로운 도전에 적극 임하겠습니다.
 
@@ -29,11 +29,11 @@ Spring, FastAPI, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입�
 
 ## Stacks
 
-
 ### Language
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,11 +45,17 @@ Spring, FastAPI, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입�
 ![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django)
 <br>
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+<br>
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
+<br>
+![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
 
 ### DataBase
 
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-005571?style=for-the-badge&logo=mongodb)
 
 ### Version Control
