@@ -34,6 +34,7 @@ Spring, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. �
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=fff)
+![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +43,7 @@ Spring, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. �
 ### Framework & Library
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
+![Rails8](https://img.shields.io/badge/rails8-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django)
 <br>
@@ -58,6 +60,7 @@ Spring, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. �
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-005571?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite)
 
 ### Version Control
 
