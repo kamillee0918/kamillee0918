@@ -26,6 +26,8 @@ Spring, Django 기반의 백엔드 개발자를 꿈꾸는 이민재입니다. �
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamillee0918&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kamillee)](https://solved.ac/kamillee)
+
 [![Programmers-Rank](https://github.com/kamillee0918/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/kamillee0918/github-programmers-rank)
 
 ## Stacks
